@@ -7,6 +7,4 @@ My favourites xx: <br>
 * Programming - C, C++, C# and Go
 * Scripting - Javascript, Python, Bash
 * Query - SQL, XQuery
-* Operating systems - Linux, FreeBSD, Windows
-
-  
+* Operating systems - Linux, Windows
